@@ -1,4 +1,4 @@
-body {}
+body {margin: auto;}
 
 .banner {
     display: flex;
@@ -67,7 +67,7 @@ body {}
 .ttt{
     display: flex;
     justify-content: space-evenly;
-    gap: 100px;
+    gap: 90px;
 }
 
 .get-1{
@@ -141,7 +141,7 @@ padding: 45px auto;
     justify-content: center;
     align-self: center;
     align-items: center;
-    margin-top: 99px;
+    margin-top: 82px;
 }
 
 .card-section {
